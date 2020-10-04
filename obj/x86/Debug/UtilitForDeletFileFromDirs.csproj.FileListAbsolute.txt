@@ -1,0 +1,9 @@
+D:\Projects and classes\UtilitForDeletFileFromDirs\bin\x86\Debug\UtilitForDeletFileFromDirs.exe
+D:\Projects and classes\UtilitForDeletFileFromDirs\bin\x86\Debug\UtilitForDeletFileFromDirs.pdb
+D:\Projects and classes\UtilitForDeletFileFromDirs\obj\x86\Debug\UtilitForDeletFileFromDirs.Properties.Resources.resources
+D:\Projects and classes\UtilitForDeletFileFromDirs\obj\x86\Debug\UtilitForDeletFileFromDirs.csproj.GenerateResource.cache
+D:\Projects and classes\UtilitForDeletFileFromDirs\obj\x86\Debug\UtilitForDeletFileFromDirs.csproj.CoreCompileInputs.cache
+D:\Projects and classes\UtilitForDeletFileFromDirs\obj\x86\Debug\UtilitForDeletFileFromDirs.exe
+D:\Projects and classes\UtilitForDeletFileFromDirs\obj\x86\Debug\UtilitForDeletFileFromDirs.pdb
+D:\Projects and classes\UtilitForDeletFileFromDirs\obj\x86\Debug\UtilitForDeletFileFromDirs.csprojAssemblyReference.cache
+D:\Projects and classes\UtilitForDeletFileFromDirs\obj\x86\Debug\UtilitForDeletFileFromDirs.Views.MainForm.resources
